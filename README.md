@@ -6,6 +6,8 @@
 
 [![도트 마이너 갤러리](gitsource/dotgall.png)](http://gall.dcinside.com/m/pixelart)
 
+번역에 대한 문의는 Github의 [Issues](https://github.com/ImBada/Aseprite-Korean/issues)에 작성해주세요.
+
 # Aseprite 한국어 Github 소개
 
 Aseprite 한국어 Github는 Aseprite의 한국어 번역과 [문서](https://www.aseprite.org/docs/) 번역을 위해 만들어졌습니다.
