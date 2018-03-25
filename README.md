@@ -4,7 +4,7 @@
 
 *한국어 Github 운영 임바다 - 누구나 참여하실 수 있습니다.*
 
-[![도트 마이너 갤러리](https://raw.githubusercontent.com/ImBada/Aseprite-Korean/master/gitsource/dotgall.png)](http://gall.dcinside.com/m/pixelart)
+[![도트 마이너 갤러리](gitsource/dotgall.png)](http://gall.dcinside.com/m/pixelart)
 
 # Aseprite 한국어 Github 소개
 
@@ -12,18 +12,30 @@ Aseprite 한국어 Github는 Aseprite의 한국어 번역과 [문서](https://ww
 
 문서 번역은 순차적으로 이루어질 예정입니다.
 
+# 한국어 인터페이스
 
+## 특징
 
-# 한국어 인터페이스 적용법
+Aseprite 한국어 인터페이스는 보다 많은 사람이 Aseprite를 접할 수 있도록 번역하였습니다.
 
-##[**최신 버전 다운로드**](https://github.com/ImBada/Aseprite-Korean/releases)
+> ![Sample1](https://raw.githubusercontent.com/ImBada/Aseprite-Korean/master/gitsource/beta1/beta1.png) ![Sample2](https://raw.githubusercontent.com/ImBada/Aseprite-Korean/master/gitsource/beta1/beta2.png)
+
+대부분의 인터페이스가 정상적으로 표시되며, **직접 적용**을 할 경우 도구 인터페이스도 번역돼 표시됩니다.
+
+##적용법
+
+>[**최신 버전 다운로드**](https://github.com/ImBada/Aseprite-Korean/releases)
+>
+>*직접 적용은 Overwirte를, 확장 도구 적용은 Extension 파일을 받아 압축을 풀어주세요.*
+>
+>*확장 도구 버전은 압축을 한 번만 푸셔야 합니다. 압축을 푼 후 두 개의 압축 파일이 나오는 것이 정상입니다.*
 
 **직접 적용 (권장)**
 
-1. Aseprite가 설치된 폴더로 이동하여 압축 파일 내용 덮어쓰기
+1. Aseprite가 설치된 폴더로 이동하여 압축 파일 내용 덮어씁니다.
 
 
-**확장 도구(Extensions)로 적용**
+**확장 도구(Extension)로 적용**
 
 1. Edit > Preferences... > Extensions(좌측 탭) > Add Extension(버튼)에서
 
