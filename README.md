@@ -4,13 +4,37 @@
 
 *한국어 Github 운영 임바다 - 누구나 참여하실 수 있습니다.*
 
-[![도트 마이너 갤러리](https://raw.githubusercontent.com/ImBada/Aseprite-Korean/master/dotgall.png)](http://gall.dcinside.com/m/pixelart)
+[![도트 마이너 갤러리](https://raw.githubusercontent.com/ImBada/Aseprite-Korean/master/gitsource/dotgall.png)](http://gall.dcinside.com/m/pixelart)
 
 # Aseprite 한국어 Github 소개
 
 Aseprite 한국어 Github는 Aseprite의 한국어 번역과 [문서](https://www.aseprite.org/docs/) 번역을 위해 만들어졌습니다.
 
 문서 번역은 순차적으로 이루어질 예정입니다.
+
+
+
+# 한국어 인터페이스 적용법
+
+##[**최신 버전 다운로드**](https://github.com/ImBada/Aseprite-Korean/releases)
+
+**직접 적용 (권장)**
+
+1. Aseprite가 설치된 폴더로 이동하여 압축 파일 내용 덮어쓰기
+
+
+**확장 도구(Extensions)로 적용**
+
+1. Edit > Preferences... > Extensions(좌측 탭) > Add Extension(버튼)에서
+
+   aseprite-language-ko.zip 파일과 aseprite-theme-ko.zip 파일을 불러옵니다.
+
+   ![안내 이미지 1](https://raw.githubusercontent.com/ImBada/Aseprite-Korean/master/gitsource/beta1/beta3.png)
+
+
+1. Theme(좌측 탭)으로 가서 aseprite-theme-ko 테마를 선택해서 적용합니다.
+	![안내 이미지 2](https://raw.githubusercontent.com/ImBada/Aseprite-Korean/master/gitsource/beta1/beta4.png)
+2. General(좌측 탭)으로 가서 Language: 옵션에 ko를 선택, OK 또는 Apply를 선택
 
 
 ## Aseprite 소개
