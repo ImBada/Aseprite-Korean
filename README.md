@@ -24,7 +24,7 @@ Aseprite 한국어 인터페이스는 보다 많은 사람이 Aseprite를 접할
 
 대부분의 인터페이스가 정상적으로 표시되며, **직접 적용**을 할 경우 도구 인터페이스도 번역돼 표시됩니다.
 
-##적용법
+## 적용법
 
 >[**최신 버전 다운로드**](https://github.com/ImBada/Aseprite-Korean/releases)
 >
