@@ -1,4 +1,4 @@
-<center>![HelloWorld](gitsource/helloworld.png)</center>
+<center>![HelloWorld](gitsource/HelloWorld.png)</center>
 
 # Aseprite 한국어 Github
 
