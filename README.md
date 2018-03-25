@@ -1,3 +1,5 @@
+<center>![HelloWorld](gitsource/helloworld.png)</center>
+
 # Aseprite 한국어 Github
 
 *Aseprite Copyright (C) 2001-2018 David Capello*
@@ -20,7 +22,7 @@ Aseprite 한국어 Github는 Aseprite의 한국어 번역과 [문서](https://ww
 
 Aseprite 한국어 인터페이스는 보다 많은 사람이 Aseprite를 접할 수 있도록 번역하였습니다.
 
-> ![Sample1](https://raw.githubusercontent.com/ImBada/Aseprite-Korean/master/gitsource/beta1/beta1.png) ![Sample2](https://raw.githubusercontent.com/ImBada/Aseprite-Korean/master/gitsource/beta1/beta2.png)
+> <center>![Sample1](https://raw.githubusercontent.com/ImBada/Aseprite-Korean/master/gitsource/beta1/beta1.png) ![Sample2](https://raw.githubusercontent.com/ImBada/Aseprite-Korean/master/gitsource/beta1/beta2.png)</center>
 
 대부분의 인터페이스가 정상적으로 표시되며, **직접 적용**을 할 경우 도구 인터페이스도 번역돼 표시됩니다.
 
