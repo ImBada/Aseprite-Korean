@@ -2,7 +2,7 @@
   "name": "aseprite-theme-ko",
   "displayName": "aseprite-theme-ko",
   "description": "Aseprite 한국어 폰트 테마입니다.",
-  "version": "1.0",
+  "version": "1.2.8",
   "author": { "name": "Bada Im", "email": "imbada@outlook.com", "url": "https://github.com/ImBada/Aseprite-Korean" },
   "contributors": [
     { "name": "Ilija Melentijevic", "url": "http://ilkke.blogspot.com/" }

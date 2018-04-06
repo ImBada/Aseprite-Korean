@@ -30,20 +30,16 @@ Aseprite 한국어 인터페이스는 보다 많은 사람이 Aseprite를 접할
 
 >[**최신 버전 다운로드**](https://github.com/ImBada/Aseprite-Korean/releases)
 >
->*직접 적용은 Overwirte를, 확장 도구 적용은 Extension 파일을 받아 압축을 풀어주세요.*
+>*두 파일 (theme, language)을 받아서 순서대로 확장 도구에 적용하면 됩니다.*
 >
->*확장 도구 버전은 압축을 한 번만 푸셔야 합니다. 압축을 푼 후 두 개의 압축 파일이 나오는 것이 정상입니다.*
+>*기존에 한국어 패치를 사용하던 사용자라면 language만 받아서 업그레이드 하시면 됩니다.*
+>
 
-**직접 적용 (권장)**
-
-1. Aseprite가 설치된 폴더로 이동하여 data 폴더 안에 압축 파일의 내용을 덮어씁니다.
-
-
-**확장 도구(Extension)로 적용**
+**확장 도구(Extension)로 적용법**
 
 1. Edit > Preferences... > Extensions(좌측 탭) > Add Extension(버튼)에서
 
-   aseprite-language-ko.zip 파일과 aseprite-theme-ko.zip 파일을 불러옵니다.
+   aseprite-language-ko.zip 파일과 aseprite-theme-ko.zip 파일을 불러옵니다. (업그레이드도 동일한 방식으로 진행합니다.)
 
    ![안내 이미지 1](https://raw.githubusercontent.com/ImBada/Aseprite-Korean/master/gitsource/beta1/beta3.png)
 

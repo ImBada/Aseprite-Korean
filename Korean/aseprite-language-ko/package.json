@@ -1,7 +1,7 @@
 {
   "name": "aseprite-language-ko",
   "displayName": "aseprite-ko-language",
-  "version": "1.0",
+  "version": "1.2.8",
   "author": { "name": "Bada Im", "email": "imbada@outlook.com", "url": "https://github.com/ImBada/Aseprite-Korean" },
   "publisher": "aseprite-Korean",
   "license": "CC-BY-4.0",
