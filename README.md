@@ -47,7 +47,8 @@ Aseprite 한국어 인터페이스는 보다 많은 사람이 Aseprite를 접할
 1. Theme(좌측 탭)으로 가서 aseprite-theme-ko 테마를 선택해서 적용합니다.
 	![안내 이미지 2](https://raw.githubusercontent.com/ImBada/Aseprite-Korean/master/gitsource/beta1/beta4.png)
 2. General(좌측 탭)으로 가서 Language: 옵션에 ko를 선택, OK 또는 Apply를 선택
-
+3. 다음 이미지를 참고해 탐색기를 윈도우 탐색기로 변경을 권장합니다. (Aseprite 기본 탐색기는 한글과 충돌이 있습니다.)
+	![안내 이미지 3](https://raw.githubusercontent.com/ImBada/Aseprite-Korean/master/gitsource/beta1/exp.png)
 
 ## Aseprite 소개
 **[Aseprite](https://www.aseprite.org/)**는 애니메이션 스프라이트를 제작하기 위한 프로그램입니다. 주요 기능은 다음과 같습니다.
