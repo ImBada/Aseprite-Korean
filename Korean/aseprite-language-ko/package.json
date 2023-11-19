@@ -10,7 +10,11 @@
   ],
   "contributes": {
     "languages": [
-      { "id": "ko", "path": "./ko.ini" }
+      {
+        "id": "ko",
+        "path": "./ko.ini",
+        "displayName": "한국어"
+      }
     ]
   }
 }
