@@ -1,0 +1,22 @@
+{
+  "name": "aseprite-theme-ko2",
+  "displayName": "aseprite-theme-ko2",
+  "description": "Aseprite 한국어 폰트 테마 임시수정 Pixel-Art Themes",
+  "version": "1.3.3",
+  "author": { "name": "Hong-do Jeom", "email": "dullee007@naver.com", "url": "https://github.com/ImBada/Aseprite-Korean" },
+  "contributors": [
+    { "name": "Ilija Melentijevic", "url": "http://ilkke.blogspot.com/" },
+    { "name": "Nicolas Desilets", "url": "https://twitter.com/MapleGecko" }
+  ],
+  "publisher": "aseprite-Korean",
+  "license": "CC-BY-4.0",
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      { "id": "aseprite-theme-ko2", "path": ".", "variant": "Light" },
+      { "id": "aseprite-theme-ko2-dark", "path": "./dark", "variant": "Dark" }
+    ]
+  }
+}
