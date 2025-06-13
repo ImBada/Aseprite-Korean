@@ -10,8 +10,8 @@
         <font name="Korean" type="truetype" antialias="false" file="./AsepriteKorean.ttf">
         <fallback font="Unicode Korean" size="10" />
         </font>
-        <font id="default" font="Korean" />
-        <font id="mini" font="Korean" />
+        <font id="default" font="Korean" size="12" />
+        <font id="mini" font="Korean" size="12" />
     </fonts>
     <dimensions>
         <dim id="scrollbar_size" value="12" />
